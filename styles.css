@@ -1,0 +1,551 @@
+@media only screen and (max-width: 600px) {
+  #about {
+    width: 100px;
+    height: 30px;
+    background-color: violet;
+  }
+
+  #projects {
+    width: 100px;
+    height: 30px;
+    background-color: yellow;
+  }
+
+  #blogs {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(221, 165, 124);
+  }
+
+  #current {
+    width: 100px;
+    height: 30px;
+    background-color: orange;
+  }
+
+  #resume {
+    width: 100px;
+    height: 30px;
+    background-color: lightblue;
+  }
+
+  #videos {
+    width: 100px;
+    height: 30px;
+    background-color: lightcoral;
+  }
+
+  #reviews {
+    width: 100px;
+    height: 30px;
+    background-color: lightseagreen;
+  }
+
+  .lw {
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+    padding: 10%;
+  }
+
+  #info {
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 60%;
+    width: 60%;
+    font-size: 25px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+  }
+  #proj {
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 60%;
+    width: 60%;
+    font-size: 25px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+  }
+  #work {
+    background-color: rgba(240, 144, 26, 0.3);
+    height: 60%;
+    width: 60%;
+    font-size: 25px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+  }
+  .clean {
+    padding: 0;
+  }
+
+  #nav {
+    background-color: rgb(128, 157, 32, 0.4);
+    height: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  a {
+    padding: 0.3%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    float: inline-start;
+  }
+  a:hover {
+    background-color: white;
+    color: lightyellow;
+  }
+  h2 {
+    text-align: center;
+  }
+
+  body {
+    font-family: "Helvetica Neue", sans-serif;
+    max-width: 50em;
+    margin: auto;
+    padding: 2em 1em;
+    background-color: darkgray;
+    background-image: url("https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .right {
+    text-align: right;
+  }
+  a {
+    border: 1px solid black;
+    margin: 0.5em;
+    padding: 7%;
+    background-color: #eeeeee;
+  }
+  a:hover {
+    background-color: orange;
+    color: blue;
+  }
+
+  a,
+  a:visited {
+    text-decoration: none;
+    color: black;
+  }
+
+  a:hover {
+    background-color: orange;
+    color: blue;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  li {
+    margin: 0.6em;
+    display: inline-block;
+  }
+
+  h1 {
+    font: inherit;
+    color: inherit;
+    letter-spacing: -0.05em;
+    text-decoration: none;
+    border-bottom: 1px solid black;
+  }
+
+  h2 > a {
+    font-size: 0.75em;
+  }
+
+  input {
+    display: block;
+    margin: 5px 0 20px 0;
+    padding: 9px;
+    border: solid 1px black;
+    width: 300px;
+    background: whitesmoke;
+  }
+
+  input[type="submit"],
+  a.delete {
+    width: auto;
+    padding: 9px 15px;
+    background-color: gray;
+    border: 0;
+    font-size: 14px;
+    color: #ffffff;
+  }
+
+  a.delete {
+    background-color: red;
+  }
+
+  .artist-photo {
+    width: 400px;
+  }
+
+  span.nationality {
+    font-size: 0.5em;
+  }
+
+  .user-info {
+    float: right;
+  }
+
+  a.fav {
+    text-decoration: none;
+    color: red;
+  }
+
+  a.no-fav {
+    text-decoration: none;
+    color: black;
+  }
+
+  .fav:visited,
+  .no-fav:visited {
+    text-decoration: none;
+  }
+
+  img {
+    height: 50%;
+    width: 50%;
+  }
+  .detail {
+    text-align: center;
+  }
+
+  .block {
+    background-color: rgba(250, 255, 128, 0.4);
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+  }
+  .view {
+    float: right;
+  }
+  .title {
+    text-align: center;
+  }
+  .name {
+    text-align: center;
+    font-size: 18px;
+  }
+  .genre {
+    font-size: 18px;
+  }
+  nav {
+    background-color: rgba(170, 255, 246, 1);
+    justify-content: space-around;
+  }
+  a:hover {
+    background-color: white;
+  }
+  .video {
+    font-size: 24px;
+  }
+  .comment {
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+
+  .vid {
+    background-color: rgba(1, 1, 1, 0.4);
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+  }
+  .contact {
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 60%;
+    width: 100%;
+    font-size: 15px;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    text-align: center;
+  }
+}
+
+/* ************************************************** */
+#about {
+  width: 100px;
+  height: 30px;
+  background-color: violet;
+}
+
+#projects {
+  width: 100px;
+  height: 30px;
+  background-color: yellow;
+}
+
+#blogs {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(221, 165, 124);
+}
+
+#current {
+  width: 100px;
+  height: 30px;
+  background-color: orange;
+}
+
+#resume {
+  width: 100px;
+  height: 30px;
+  background-color: lightblue;
+}
+
+#videos {
+  width: 100px;
+  height: 30px;
+  background-color: lightcoral;
+}
+
+#reviews {
+  width: 100px;
+  height: 30px;
+  background-color: lightseagreen;
+}
+
+.lw {
+  width: 50%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+  text-align: center;
+  padding: 10%;
+}
+
+#info {
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 60%;
+  width: 80%;
+  font-size: 25px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+#proj {
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 60%;
+  width: 80%;
+  font-size: 25px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+#work {
+  background-color: rgba(240, 144, 26, 0.3);
+  height: 60%;
+  width: 80%;
+  font-size: 25px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+.clean {
+  padding: 0;
+}
+
+#nav {
+  background-color: rgb(128, 157, 32, 0.4);
+  height: 40px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  padding: 0.3%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  float: inline-start;
+}
+a:hover {
+  background-color: white;
+  color: lightyellow;
+}
+h2 {
+  text-align: center;
+}
+
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  max-width: 50em;
+  margin: auto;
+  padding: 2em 1em;
+  background-color: darkgray;
+  background-image: url("https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.right {
+  text-align: right;
+}
+a {
+  border: 1px solid black;
+  margin: 0.5em;
+  padding: 7%;
+  background-color: #eeeeee;
+}
+a:hover {
+  background-color: orange;
+  color: blue;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  background-color: orange;
+  color: blue;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 0.6em;
+  display: inline-block;
+}
+
+h1 {
+  font: inherit;
+  color: inherit;
+  letter-spacing: -0.05em;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+}
+
+h2 > a {
+  font-size: 0.75em;
+}
+
+input {
+  display: block;
+  margin: 5px 0 20px 0;
+  padding: 9px;
+  border: solid 1px black;
+  width: 300px;
+  background: whitesmoke;
+}
+
+input[type="submit"],
+a.delete {
+  width: auto;
+  padding: 9px 15px;
+  background-color: gray;
+  border: 0;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+a.delete {
+  background-color: red;
+}
+
+.artist-photo {
+  width: 400px;
+}
+
+span.nationality {
+  font-size: 0.5em;
+}
+
+.user-info {
+  float: right;
+}
+
+a.fav {
+  text-decoration: none;
+  color: red;
+}
+
+a.no-fav {
+  text-decoration: none;
+  color: black;
+}
+
+.fav:visited,
+.no-fav:visited {
+  text-decoration: none;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
+.detail {
+  text-align: center;
+}
+
+.block {
+  background-color: rgba(250, 255, 128, 0.4);
+  border: black;
+  border-width: 1px;
+  border-style: solid;
+}
+.view {
+  float: right;
+}
+.title {
+  text-align: center;
+}
+.name {
+  text-align: center;
+  font-size: 18px;
+}
+.genre {
+  font-size: 18px;
+}
+nav {
+  background-color: rgba(170, 255, 246, 1);
+  justify-content: space-around;
+}
+a:hover {
+  background-color: white;
+}
+.video {
+  font-size: 24px;
+}
+.comment {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.vid {
+  background-color: rgba(1, 1, 1, 0.4);
+  border: black;
+  border-width: 1px;
+  border-style: solid;
+}
+.contact {
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 60%;
+  width: 80%;
+  font-size: 15px;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  text-align: center;
+  margin-top: 50%;
+}
