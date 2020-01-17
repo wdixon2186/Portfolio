@@ -549,3 +549,13 @@ a:hover {
   text-align: center;
   margin-top: 50%;
 }
+#blog {
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 60%;
+  width: 80%;
+  font-size: 25px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
