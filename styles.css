@@ -4,6 +4,30 @@
     height: 30px;
     background-color: violet;
   }
+  #bl {
+    background-color: lightblue;
+    background-image: url("https://files.brightside.me/files/news/part_38/384510/16750410-1490943923-1509106594-650-7109e04a5b-1509109344.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #pr {
+    background-color: lightcoral;
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lionel-animals-to-follow-on-instagram-1568319926.jpg?crop=0.922xw:0.738xh;0.0555xw,0.142xh&resize=640:*");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #mo {
+    background-color: lightgreen;
+    background-image: url("https://alltimelists.com/wp-content/uploads/2018/02/Cute-Animals-that-Are-Not-Pets-812x464.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #in {
+    background-color: lightyellow;
+    background-image: url("https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
 
   #projects {
     width: 100px;
@@ -114,9 +138,6 @@
     margin: auto;
     padding: 2em 1em;
     background-color: darkgray;
-    background-image: url("https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
   }
   .right {
     text-align: right;
@@ -390,9 +411,6 @@ body {
   margin: auto;
   padding: 2em 1em;
   background-color: darkgray;
-  background-image: url("https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 .right {
   text-align: right;
@@ -558,4 +576,32 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   margin-top: 5%;
+}
+
+#bl {
+  background-color: lightblue;
+  background-image: url("https://files.brightside.me/files/news/part_38/384510/16750410-1490943923-1509106594-650-7109e04a5b-1509109344.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#pr {
+  background-color: lightcoral;
+  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lionel-animals-to-follow-on-instagram-1568319926.jpg?crop=0.922xw:0.738xh;0.0555xw,0.142xh&resize=640:*");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#mo {
+  background-color: lightgreen;
+  background-image: url("https://alltimelists.com/wp-content/uploads/2018/02/Cute-Animals-that-Are-Not-Pets-812x464.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#in {
+  background-color: lightyellow;
+  background-image: url("https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#vid {
+  text-align: center;
 }
