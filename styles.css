@@ -121,3 +121,15 @@ p {
 .current {
   text-align: center;
 }
+
+@media only screen and (max-width: 600px) {
+  .atags {
+    width: 32%;
+    float: left;
+    /* background-color: rgb(130, 38, 142); */
+    background-color: rgb(6, 16, 28);
+    border-bottom-width: 1px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+  }
+}
