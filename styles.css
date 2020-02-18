@@ -136,9 +136,6 @@ p {
 }
 
 .lw {
-  border-color: white;
-  border-width: 1px;
-  border-style: solid;
   width: 255px;
   height: 400px;
   margin-left: auto;
